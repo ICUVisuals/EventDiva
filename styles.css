@@ -935,7 +935,7 @@ body {
   font-size: 72px;
   font-weight: 700;
   color: var(--color-bronze);
-  opacity: 0.8;
+  opacity: 0.9;
   line-height: 1;
 }
 
@@ -2365,6 +2365,7 @@ body {
 
   .service-number {
     font-size: 48px;
+    opacity: 0.9 !important;
   }
 
   .footer-content {
